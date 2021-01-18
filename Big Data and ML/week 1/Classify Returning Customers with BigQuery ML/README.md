@@ -6,14 +6,14 @@ The visitor and order data has been loaded into BigQuery and a machine learning 
 
 Following tasks have been performed:
 
-Use BigQuery to find public datasets
+1. Use BigQuery to find public datasets
 
-Query and explore the ecommerce dataset
+2. Query and explore the ecommerce dataset
 
-Create a training and evaluation dataset to be used for batch prediction
+3. Create a training and evaluation dataset to be used for batch prediction
 
-Create a classification (logistic regression) model in BigQuery ML
+4. Create a classification (logistic regression) model in BigQuery ML
 
-Evaluate the performance of your machine learning model
+5. Evaluate the performance of your machine learning model
 
-Predict and rank the probability that a visitor will make a purchase
+6. Predict and rank the probability that a visitor will make a purchase
