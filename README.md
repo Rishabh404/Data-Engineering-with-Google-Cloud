@@ -11,5 +11,4 @@ This professional certificate will cover the following topics in depth:
 
 This professional certificate also incorporates hands-on labs using Qwiklabs platform.
 
-These hands on components will let you apply the skills you learn. Projects incorporate Google Cloud Platform products, used within Qwiklabs. 
-This will help me gain practical hands-on experience with the concepts explained throughout the modules.
+These hands on components will let me apply the skills I have learned. 
