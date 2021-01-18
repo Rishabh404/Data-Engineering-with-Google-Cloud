@@ -1,4 +1,4 @@
-# Data-Engineering-with-Google-Cloud
+# Data Engineering with Google Cloud
 
 This professional certificate will cover the following topics in depth:
 
