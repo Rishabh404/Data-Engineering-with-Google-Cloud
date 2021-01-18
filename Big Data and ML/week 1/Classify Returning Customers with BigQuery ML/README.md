@@ -1,4 +1,4 @@
-# Classification of customers as returning on non returing on the Google E-commerce platform
+# Classification of customers as returning on non returning on the Google E-commerce platform
 
 
 Ecommerce data from the real Google Ecommerce storefront: https://shop.googlemerchandisestore.com/ has been used.
